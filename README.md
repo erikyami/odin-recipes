@@ -8,3 +8,6 @@ Project Recipes for Odin Project
  - Lists
  - Links and Images
  - Commit Messages
+
+https://erikyami.github.io/odin-recipes/
+
